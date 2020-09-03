@@ -2,10 +2,10 @@
 // @name         Steam-AutoCraft
 // @version      1.4.6
 // @description  AutoCraft Steam Community Badges
-// @author       10101000
+// @author       lew
 // @match        *://steamcommunity.com/*/gamecards/*
 // @match        *://steamcommunity.com/*/badges/*
-// @copyright    2016 10101000
+// @copyright    2020 DMCA
 // @grant        none
 // ==/UserScript==
 
